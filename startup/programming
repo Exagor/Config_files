@@ -7,7 +7,6 @@ sudo apt install python-pip -y
 sudo apt install python3-pip -y
 
 #java
-sudo apt install javac -y
 sudo apt install openjdk-11-jdk -y
 
 #C/C++

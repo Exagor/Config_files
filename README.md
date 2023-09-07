@@ -9,4 +9,6 @@ It have different purposes :
 2. Use daily line commands
 3. Other purposes
 
+Don't forget to allow bash to execute the scripts with " chmod +x nom_du_script.sh "
+
 
