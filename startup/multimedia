@@ -9,3 +9,6 @@ sudo snap install spotify -y
 #gimp
 sudo apt install gimp -y
 
+#vectorial drawing
+sudo apt install inkscape -y
+
