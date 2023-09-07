@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#desktop environment
+sudo apt install ubuntu-gnome-desktop -y
+sudo reboot
+
+#chrome
+sudo apt install chromium-browser -y
+

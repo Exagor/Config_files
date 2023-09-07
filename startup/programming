@@ -1,0 +1,29 @@
+#!/bin/bash
+
+#python
+sudo apt install python -y
+sudo apt install python3 -y
+sudo apt install python-pip -y
+sudo apt install python3-pip -y
+
+#java
+sudo apt install javac -y
+sudo apt install openjdk-11-jdk -y
+
+#C/C++
+sudo apt install gcc -y
+sudo apt install g++ -y
+
+#git
+sudo apt install git -y
+
+#text editor
+sudo apt install nano -y
+sudo apt install vim -y
+
+#IDE
+sudo snap install --classic code #if ubuntu 16.04
+#otherwise sudo apt install code -y
+
+
+

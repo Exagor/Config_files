@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#discord
+sudo snap install discord -y
+
+#spotify
+sudo snap install spotify -y
+
+#gimp
+sudo apt install gimp -y
+
