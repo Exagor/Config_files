@@ -1,3 +1,4 @@
 #!/bin/bash
 
 sudo pip install gpiozero
+sudo pip3 install gpiozero
